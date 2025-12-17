@@ -1,0 +1,14 @@
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\bin\Debug\net10.0\Ex9.exe
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\bin\Debug\net10.0\Ex9.deps.json
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\bin\Debug\net10.0\Ex9.runtimeconfig.json
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\bin\Debug\net10.0\Ex9.dll
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\bin\Debug\net10.0\Ex9.pdb
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.AssemblyInfoInputs.cache
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.AssemblyInfo.cs
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.dll
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\refint\Ex9.dll
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.pdb
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\Ex9.genruntimeconfig.cache
+C:\Users\bcarvalho\source\repos\Ex9\Ex9\obj\Debug\net10.0\ref\Ex9.dll
