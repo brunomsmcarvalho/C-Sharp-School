@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\Ex1\Ex1\bin\Debug\net10.0\Ex1.exe
+C:\Users\Bruno\source\repos\Ex1\Ex1\bin\Debug\net10.0\Ex1.deps.json
+C:\Users\Bruno\source\repos\Ex1\Ex1\bin\Debug\net10.0\Ex1.runtimeconfig.json
+C:\Users\Bruno\source\repos\Ex1\Ex1\bin\Debug\net10.0\Ex1.dll
+C:\Users\Bruno\source\repos\Ex1\Ex1\bin\Debug\net10.0\Ex1.pdb
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.dll
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\refint\Ex1.dll
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.pdb
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\Ex1.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\Ex1\Ex1\obj\Debug\net10.0\ref\Ex1.dll
