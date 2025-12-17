@@ -35,6 +35,7 @@ Ao longo das aulas, foram trabalhados os seguintes tópicos:
 
 A organização do repositório segue uma lógica simples:
 
+'''
 /
 ├── Aula01/
 │ └── Ex1 - Tipos primitivos / WriteLine
@@ -51,6 +52,7 @@ A organização do repositório segue uma lógica simples:
 ├── Projectos/
 │ └── NomeDoProjecto/
 └── README.md
+'''
 
 yaml
 Copiar código
